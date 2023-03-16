@@ -1,8 +1,12 @@
 # The MechatronicUML Tool Suite
 
-The MechatronicUML Tool Suite (MUML TS) is an Eclipse-based IDE for using the [MechatronicUML](http://www.mechatronicuml.org/de/index.html). As no working download is currently available on the web, we provide a download here via this GitHub repository.
+The MechatronicUML Tool Suite (MUML TS) is an Eclipse-based IDE for using the [MechatronicUML](http://www.mechatronicuml.org/de/index.html). 
 
-## Installation instructions
+It can be installed through a VirtualBox image that can be found at the bottom of the [dowload section on the MUML homepage](http://www.mechatronicuml.org/en/download.html).
+
+All other download options there are not working anymore, therefore we provide an alternative download here via this GitHub repository for a direct installation on Windows.
+
+## Installation Instructions
 
 1) Download the zip-File linked under "Releases", unzip it.
 2) Install a Java 8 VM if you don't have one on your local machine.
