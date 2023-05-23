@@ -32,3 +32,13 @@ Clone and import the following plugins and choose the correct branch (I recommen
 
 Now right click on one of the imported projects and choose ```Run As > Eclipse Application```.
 A new Eclipse window will appear that contains all features of the MUML TS with the plugins installed.
+
+## Troubleshooting
+
+It can happen that some imported plugins have errors that prevent the MUML Tool Suite from starting correctly or displaying certain diagram types.
+
+In some cases, removing the affected plugin and re-importing it solves this issue.
+
+If that doesn't work, go the the file of the plugin that contains the error.
+Sometimes, the import of some classes can be missing, which causes the issue.
+Add the import through a suggestion by Eclipse and the error should be resolved.
